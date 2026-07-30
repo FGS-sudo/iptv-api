@@ -1,7 +1,8 @@
-Name: 镇江二套社会民生, URL: http://zjtv-wshls.homecdn.com/live/2aa16.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-合肥, ISP: 移动, Date: None, Delay: 1911 ms, Speed: 0.57 M/s, Resolution: 1920x1080
-Name: 叙永综合, URL: rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd, From: subscribe, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 304 ms, Speed: 0.00 M/s, Resolution: None
-Name: 武乡新闻综合, URL: http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-合肥, ISP: 移动, Date: None, Delay: 1362 ms, Speed: 0.11 M/s, Resolution: None
-Name: 合肥新闻, URL: http://112.27.235.94:8000/hls/18/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 5826 ms, Speed: 0.22 M/s, Resolution: 720x576
+Name: 镇江二套社会民生, URL: http://zjtv-wshls.homecdn.com/live/2aa16.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-合肥, ISP: 移动, Date: None, Delay: 2486 ms, Speed: 0.51 M/s, Resolution: 1920x1080
+Name: 叙永综合, URL: rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd, From: subscribe, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 323 ms, Speed: 0.00 M/s, Resolution: None
+Name: 古县综合, URL: https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-合肥, ISP: 移动, Date: None, Delay: 2431 ms, Speed: 0.00 M/s, Resolution: None
+Name: 武乡新闻综合, URL: http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-合肥, ISP: 移动, Date: None, Delay: 2140 ms, Speed: 0.41 M/s, Resolution: None
+Name: 合肥新闻, URL: http://112.27.235.94:8000/hls/18/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: 5254 ms, Speed: 0.21 M/s, Resolution: 720x576
 Name: 祁门综合, URL: rtmp://tv.qmxrmt.com/chan/ch1?zanhd#rtmp://tv.qmxrmt.com/chan/ch1, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 祁门综合, URL: rtmp://tv.qmxrmt.com/chan/ch1, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 祁门综合, URL: rtmp://tv.qmxrmt.com/chan/ch1?zanhd, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
